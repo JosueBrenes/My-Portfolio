@@ -1,5 +1,13 @@
 export const portafolioData = [
   {
+    imgSrc: "../img/portfolio_img/100projectsJavascript.webp",
+    titulo: "100 Projects JavaScript",
+    skills: ["Astro", "JavaScript"],
+    descripcion: "100 JavaScript projects with code and videos. Free!",
+    demoURL: "https://100projectsjavascript.netlify.app",
+    repoURL: "https://github.com/JosueBrenes/javascript-100-projects",
+  },
+  {
     imgSrc: "../img/portfolio_img/alura_geek.webp",
     titulo: "EasyRecord",
     skills: ["Astro", "JavaScript"],
