@@ -12,15 +12,21 @@ export const cardsData = [
     clas: "css",
   },
   {
-    imgSrc: "./svg/bootstrap.svg",
-    imgAlt: "Bootstrap icon",
-    title: "Bootstrap✅",
-    clas: "",
-  },
-  {
     imgSrc: "./svg/tailwind.svg",
     imgAlt: "Tailwind icon",
     title: "Tailwind✅",
+    clas: "",
+  },
+  {
+    imgSrc: "./svg/sass-1.svg",
+    imgAlt: "Sass icon",
+    title: "Sass✅",
+    clas: "",
+  },
+  {
+    imgSrc: "./svg/bootstrap-5.svg",
+    imgAlt: "Bootstrap icon",
+    title: "Bootstrap✅",
     clas: "",
   },
   {
