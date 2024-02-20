@@ -43,7 +43,7 @@
   column-gap: 1.5rem;
   width: 100%;
   height: 39dvh;
-  animation: 23s infiniteSlide  reverse infinite linear;
+  animation: 23s infiniteSlide reverse infinite linear;
 }
 .skills__caja {
   height: 112px;
@@ -57,9 +57,7 @@
   transition: 0.2s ease-in-out;
   padding: 6rem;
 }
-.skills__cajas:has(.skills__caja:hover) {
-  animation-play-state: paused;
-}
+
 .img {
   position: absolute;
   transition: 0.2s ease-in-out;
